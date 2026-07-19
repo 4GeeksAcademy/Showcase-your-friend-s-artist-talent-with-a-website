@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+
+# Local scratch files generated while designing or testing.
+work/
+outputs/
+.private/
+
+# Raw or alternative source photos that are not used by the site.
+assets/photos/
+docs/source-material/
+assets/images/*-large.jpg
+assets/images/franchesco-portrait*.jpg
+assets/images/franchesco-work*.jpg
