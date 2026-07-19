@@ -1,0 +1,423 @@
+INFORMACIÓN QUE CHATGPT RECUERDA SOBRE FRANCHESCO STABILE
+
+Este documento resume lo que recuerdo sobre ti a partir de nuestras conversaciones. No procede de entrar en tus cuentas, leer tu ordenador ni investigar fuera del chat. Algunos datos pueden haber cambiado y, cuando existen versiones distintas, se indican como aproximaciones o escenarios diferentes.
+
+1. DATOS PERSONALES
+
+- Tu nombre es Franchesco Stabile.
+- Hablas principalmente español.
+- Resides en Zaragoza, Aragón, o al menos esa ha sido tu ubicación habitual durante nuestras conversaciones.
+- Has mostrado interés en buscar vivienda por zonas como San Mateo de Gállego.
+- Eres ciudadano italiano y has mencionado que dispones de NIE.
+- Has hablado de un entorno familiar venezolano y de que tu madre es venezolana.
+- En diciembre de 2025 comentaste que llevabas aproximadamente tres años y medio viviendo en España.
+- Te has informado sobre residencia, arraigo y posibles vías para obtener la nacionalidad española.
+- Tu zona horaria habitual es la de España peninsular, Europe/Madrid.
+
+2. TU PERFIL GENERAL
+
+Te veo como una persona en plena transición desde trabajos técnicos e industriales hacia una carrera tecnológica. Tu perfil combina:
+
+- Experiencia industrial y técnica.
+- Desarrollo web.
+- Ciencia de datos y machine learning.
+- Power BI y análisis de negocio.
+- Automatización con inteligencia artificial.
+- IA local y hardware.
+- Interés empresarial y deseo de monetizar proyectos tecnológicos.
+
+No buscas solamente aprender programación: quieres convertir ese conocimiento en trabajo, servicios, productos y mayores ingresos.
+
+3. FORMACIÓN ACADÉMICA
+
+Has mencionado la siguiente trayectoria:
+
+- Bachillerato.
+- Estudios de Ingeniería Electrónica en UNEXPO, aproximadamente entre 2015 y 2017, durante tres semestres.
+- Formación en Instrumentación en el IUT Pedro Emilio Coll, aproximadamente entre 2017 y 2018, durante cuatro trimestres.
+- Grado Superior en Desarrollo de Aplicaciones Web — DAW, iniciado en 2024.
+- Recientemente comentaste que te quedan alrededor de tres asignaturas, además de las prácticas y el trabajo final, aunque tu situación concreta de matrícula puede depender del centro y de la comunidad autónoma.
+- Has considerado o cursado un Máster Full Stack con MasterD en Zaragoza.
+- Realizaste un bootcamp de Data Science y Machine Learning de 4Geeks, de unas 16 semanas.
+- Has realizado o considerado cursos de Python, Java, HTML, CSS, JavaScript, SQL, Power BI, Machine Learning, seguridad informática, mantenimiento de sistemas, Microsoft Security, Azure e inteligencia artificial de IBM y Cisco.
+- Has tenido una suscripción o interés activo en Platzi.
+
+4. INGLÉS
+
+- Quieres aprender inglés desde cero, aproximadamente nivel A1.
+- Tu objetivo es usarlo para trabajar, viajar y progresar profesionalmente.
+- Has solicitado listas de palabras básicas, ejercicios de speaking, listening y writing, preparación para pruebas de nivel y una rutina aproximada de 30 minutos diarios.
+- Prefieres un aprendizaje progresivo y práctico, no únicamente teoría gramatical.
+
+5. EXPERIENCIA LABORAL
+
+Measwind o Meadwind Renewable Services:
+- Trabajaste aproximadamente entre septiembre de 2022 y julio de 2023.
+- Has descrito funciones como técnico instalador de torres meteorológicas y trabajo técnico relacionado con energías renovables.
+
+Electra C.A., Venezuela:
+- Has mencionado experiencia como técnico informático.
+
+Heneo Print:
+- Trabajaste como mozo de almacén o ayudante aproximadamente entre agosto de 2023 y enero de 2024.
+
+Modisprem:
+- Trabajas o has trabajado en Modisprem S.A., en el sector de automoción, desde aproximadamente septiembre de 2023.
+- Tu puesto ha sido descrito como maquinista u operario de producción.
+- En ciertos periodos has indicado un horario de 06:00 a 14:00, con algunos sábados.
+- Consideras que tu salario y crecimiento profesional en automoción están estancados.
+- Has pensado en desarrollar para Modisprem un GPT local para operarios, orientado a producción, calidad, almacén y consulta de procedimientos internos.
+
+Cemergy:
+- Has mencionado una colaboración o trabajo con Cemergy Global Solutions S.L.
+- Has tratado temas como facturación, cobros mediante PayPal, Binance o criptomonedas, instrucciones de pago corporativas, propuestas de infraestructura de inteligencia artificial, construcción de sistemas RAG y posible compra de un ordenador profesional de IA.
+
+6. OBJETIVOS PROFESIONALES
+
+Tus objetivos principales son convertirte en alguno de estos perfiles:
+
+- IA Engineer Junior.
+- Data Analyst Junior.
+- Full Stack Developer Junior.
+- Profesional de automatización con inteligencia artificial.
+- Especialista en Power BI y soluciones de datos.
+
+Tu dirección estratégica consiste en combinar Python, SQL, JavaScript, desarrollo web, Power BI, Machine Learning, automatización, IA generativa, agentes de IA y conocimiento de negocio.
+
+Quieres conseguir tu primer empleo tecnológico real, construir experiencia y dejar progresivamente los trabajos físicos o industriales.
+
+También has mostrado interés por trabajar en España, Suiza, Canadá e Irlanda.
+
+7. OBJETIVOS ECONÓMICOS
+
+Has manejado distintas metas según el momento:
+
+- Generar alrededor de 10 dólares diarios mediante TikTok.
+- Obtener aproximadamente 300 euros al mes como freelance.
+- Alcanzar unos 1.200 euros mensuales online para sustituir un segundo trabajo.
+- Generar cerca de 2.000 euros mensuales mediante impresión 3D.
+- Llegar a aproximadamente 100.000 euros anuales para 2030.
+
+También compartiste una progresión aproximada de ingresos anuales entre 2017 y 2025:
+
+- 2017: 500 euros.
+- 2018: 1.000 euros.
+- 2019: 2.500 euros.
+- 2020: 3.500 euros.
+- 2021: 8.500 euros.
+- 2022: 4.000 euros.
+- 2023: 25.000 euros.
+- 2024: 33.000 euros.
+- 2025: 30.000 euros.
+
+Estas cantidades pueden ser aproximadas y no necesariamente representan ingresos fiscales definitivos.
+
+8. INFORMACIÓN SALARIAL Y FINANCIERA
+
+En diferentes conversaciones has mencionado cifras que no siempre coinciden, probablemente porque correspondían a años, empleos o escenarios distintos:
+
+- Un salario neto habitual cercano a 1.430 o 1.450 euros al mes.
+- En otro contexto, unos 27.000 euros brutos anuales.
+- Una retención habitual de alrededor del 15 por ciento de IRPF.
+- Has hablado de recibir 13 pagas.
+- En 2025 mencionaste un segundo pagador o ETT con aproximadamente 7.000 euros brutos.
+- Has hecho simulaciones comparando retenciones del 6, 15 y 18 por ciento.
+- En diciembre de 2025 mencionaste aproximadamente 10.000 euros de deuda.
+- Has planteado ahorrar cerca del 50 por ciento de tus ingresos.
+- Has consultado sobre Hacienda, facturación sin ser autónomo, ingresos por PayPal, criptomonedas y transferencias bancarias.
+
+9. BOOTCAMP DE 4GEEKS
+
+Realizaste un bootcamp de Data Science y Machine Learning.
+
+Valoración:
+- Le diste aproximadamente un 7 de 10.
+- Consideraste que la formación era algo compleja.
+- Tu mentora principal fue Kary Alexandra Herrera Romero.
+- Valorabas sus conocimientos, aunque sentías que su comunicación podía ser poco natural o generar cierta incomodidad al preguntar.
+- La teaching assistant fue Beatriz Solana.
+- Valoraste positivamente su empatía y conexión con el grupo, aunque mencionaste algún retraso puntual en correcciones.
+
+Grupo:
+- Alberto.
+- Ignacio.
+- Franchesco.
+- Benjamin.
+
+Proyecto final:
+- Bioenergía en el sector agroalimentario.
+- Trabajaste con datos de FAOSTAT.
+- Participaste especialmente en modelo, optimización, despliegue, explicación de las partes 6 y 7 de la presentación, preparación de guiones y presentación comercial de la aplicación.
+- El repositorio utilizado era Dragcessa1998/Proyecto-Final-4geeks-bioenerg-a-en-el-sector-agroalimentario.
+- Trabajaste con src/features.py, area_key, year, value, BE y dominios como AF, AE y CISP.
+- Usaste Streamlit o una aplicación similar para presentar resultados.
+
+10. PROYECTO S&OP Y POWER BI
+
+Has empezado a trabajar en un proyecto de S&OP, relacionado con planificación de ventas y operaciones.
+
+Conceptos centrales:
+- Definición de dimensiones.
+- Tablas de hechos.
+- Dimensión cliente.
+- Dimensión material.
+- Dimensión tiempo.
+- Dimensión proyecto.
+- Demanda.
+- Toneladas.
+- Valores económicos.
+- Separación de fuentes.
+- CRM como fuente independiente.
+- Unificación de F5 y Presupuesto.
+- Diferenciación de escenarios mediante columnas.
+- Trazabilidad del origen de cada dato.
+
+Has pedido ayuda para interpretar tu rol, comenzar tareas, saber qué información solicitar, corregir un Excel mediante Claude Code, arreglar errores visuales y ortográficos, conectar Power BI con un servidor MCP y editar modelos desde Visual Studio Code.
+
+11. PROYECTO EXCEL Y FACT CONSOLIDADO
+
+Has trabajado en un proceso para transformar varios archivos Excel en una base estructurada.
+
+Elementos principales:
+- Extracción automática mediante Python.
+- Conversión de archivos Excel a CSV.
+- Creación de un FACT_CONSOLIDADO.
+- Uso de una estructura denominada CMD v2.2.
+- Utilización de sheet2 como hoja guía.
+- Detección de que el FACT no respetaba correctamente la estructura.
+- Necesidad de crear y mapear dimensiones antes de consolidar.
+- Separación entre extracción, transformación y estructuración.
+- Interés en generar un pipeline completo y reproducible.
+
+12. PROYECTO BIOX-HUNTER
+
+Has diseñado un videojuego arcade 2D llamado BIOX-HUNTER, inspirado en Mega Man X.
+
+Personajes:
+- BIO-X, un androide retrofuturista.
+- Un dron aliado.
+- PETRO-MAVERICK, un mecha industrial relacionado con petróleo y energía fósil.
+- Robot terrestre.
+- Dron volador.
+- Torreta fija.
+- Subjefes.
+
+Requisitos visuales:
+- Sprites en PNG.
+- Fondo transparente.
+- Cuadrícula uniforme.
+- Personajes centrados.
+- Escala consistente.
+- Sin texto ni marcas de agua.
+- Animaciones de idle, movimiento, disparo, daño y muerte.
+
+Querías que el juego estuviese integrado en una aplicación web, con apariencia profesional y calidad visual alta.
+
+13. INTELIGENCIA ARTIFICIAL LOCAL
+
+Te interesa mucho ejecutar modelos de IA en local.
+
+Has investigado:
+- Ollama.
+- LM Studio.
+- Open WebUI.
+- Qdrant.
+- PostgreSQL con pgvector.
+- RAG.
+- Agentes de IA.
+- Servidores MCP.
+- Clawdbot.
+- Automatizaciones controladas mediante WhatsApp o Discord.
+- Asistentes privados que funcionen solamente para ti.
+
+Prefieres que tus asistentes locales sean seguros, privados y restringidos a tu uso.
+
+14. HARDWARE E IA
+
+Has investigado intensamente hardware para IA local.
+
+Ordenadores considerados:
+- NVIDIA DGX Spark.
+- Equipos con Threadripper.
+- RTX 5090.
+- RTX PRO 6000 de 96 GB.
+- Sistemas con 128 o 256 GB de RAM.
+- Equipos con dos GPU.
+- Mac mini M4.
+- Granjas de varios Mac mini.
+- Portátiles con RTX 5070 Ti o RTX 5080.
+
+Has reflexionado sobre que el hardware de IA local puede estar inflado de precio, que los servicios de IA en la nube posiblemente estén subvencionados y que pagar suscripciones potentes podría ofrecer más rendimiento a corto plazo que comprar un equipo de 20.000 o 30.000 euros.
+
+15. EQUIPOS Y DISPOSITIVOS MENCIONADOS
+
+HP OMEN 16:
+- Ryzen 9 8950HX.
+- RTX 5060.
+- Interés en rendimiento competitivo de Fortnite a 1080p y cerca de 240 FPS.
+- Instalación o reinstalación de Windows.
+- Uso de varios monitores.
+- Posible ampliación de RAM.
+
+Otros ordenadores:
+- PC con Ryzen 7 5700G.
+- 64 GB de RAM.
+- RTX 4060 Ti de 8 GB.
+- SSD de 1 TB.
+- Portátil con Ryzen 7 7700HS, RTX 4060, 16 GB de RAM y 1 TB.
+- Portátil anterior con Ryzen 7 4800H, RTX 2060 y 32 GB de RAM.
+- Mac mini.
+- iMac de 2013.
+- Posible MacBook Air o MacBook Pro.
+
+Dispositivos Apple:
+- iPhone 17 Pro Max.
+- Apple Watch Ultra.
+- Mac mini.
+- AirPods o auriculares compatibles.
+
+Otros equipos:
+- Dron DJI Mini 3.
+- Mando.
+- Varias baterías.
+- Base de carga.
+- Estuche.
+- Pista de aterrizaje.
+- Filtros o lentes ópticas.
+- Volante Logitech G923.
+- Pedales y posiblemente palanca de cambios.
+- Monitores de alta frecuencia.
+
+16. STREAMING Y CREACIÓN DE CONTENIDO
+
+TikTok:
+- Usuario mencionado: fgsc18.
+- Has realizado directos de aproximadamente dos horas diarias.
+- En un momento alcanzaste alrededor de 340 personas.
+- Querías llegar a 1.000 seguidores.
+- Objetivo inicial: obtener unos 10 dólares diarios.
+
+Kick:
+- Nombre utilizado: DragcessOficial.
+- Has solicitado overlays y banners de 2560 por 1440.
+- Estética preferida: rojo neón, gaming y visualmente intensa.
+
+Juegos:
+- Fortnite.
+- Rocket League.
+- FIFA Street 2.
+- Spider-Man 2.
+
+También has tenido problemas o consultas sobre audio duplicado, OBS, TikTok Studio, caídas de conexión, bots, ping y streaming desde PS5 sin capturadora.
+
+17. DISEÑO, DOCUMENTOS E INFOGRAFÍAS
+
+Sueles pedir materiales visuales con un acabado profesional:
+
+- PDF.
+- Presentaciones PowerPoint.
+- Infografías.
+- Banners.
+- Imágenes para LinkedIn.
+- Diagramas.
+- Manuales formativos.
+- Aplicaciones web educativas.
+- Documentos empresariales.
+
+Tus preferencias habituales son diseño moderno, buena resolución, apariencia profesional, contenido visualmente potente y explicaciones desde nivel básico hasta avanzado.
+
+18. TECNOLOGÍAS Y HERRAMIENTAS
+
+- Python.
+- Java.
+- JavaScript.
+- HTML.
+- CSS.
+- React.
+- SQL.
+- JDBC.
+- Swing.
+- Programación orientada a objetos.
+- UML.
+- Diagramas entidad-relación.
+- Power BI.
+- Excel.
+- Power Query.
+- APIs.
+- Git.
+- GitHub.
+- Visual Studio Code.
+- Claude Code.
+- GitHub Copilot.
+- Figma.
+- Obsidian.
+- Streamlit.
+- Ollama.
+- LM Studio.
+- Open WebUI.
+- Qdrant.
+- PostgreSQL.
+- pgvector.
+- MCP.
+- RAG.
+- Web scraping.
+- Dashboards y limpieza de datos.
+
+19. POSICIONAMIENTO PROFESIONAL
+
+En LinkedIn te has presentado o hemos trabajado una presentación cercana a:
+
+Desarrollador Full Stack con formación especializada en Data Science, Machine Learning y Automatización con Inteligencia Artificial.
+
+Tus palabras clave profesionales incluyen Python, Power BI, SQL, Machine Learning, JavaScript, HTML, CSS, Excel, Power Query, APIs, GitHub, Data Cleaning, Dashboards, IA generativa y agentes de IA.
+
+Quieres tener un perfil que combine una base técnica fuerte con mentalidad empresarial.
+
+20. CÓMO SUELES TRABAJAR CON CHATGPT
+
+Normalmente buscas:
+
+- Respuestas directas y prácticas.
+- Instrucciones listas para copiar y pegar.
+- Prompts completos para Claude Code.
+- Código funcional, no solamente teoría.
+- Explicaciones paso a paso.
+- Comparaciones de precio y rendimiento.
+- Recomendaciones basadas en calidad-precio.
+- Enlaces directos cuando buscas productos o recursos.
+- Resultados visuales profesionales.
+- Que corrija errores sin obligarte a responder demasiadas preguntas.
+- Que transforme ideas iniciales en proyectos mucho más completos.
+
+También sueles iterar sobre el resultado: primero pides una versión y después solicitas más detalle, mejor diseño, mayor resolución o una versión más profesional.
+
+21. LO QUE CHATGPT NO SABE DE TI
+
+No conozco, salvo que lo hayas escrito en una conversación:
+
+- Tus contraseñas.
+- Tus datos de acceso a Slack, 4Geeks, bancos u otras cuentas.
+- El contenido completo de tu correo.
+- Tus mensajes privados.
+- Tu dirección exacta.
+- Tu número de teléfono.
+- Tus documentos de identidad.
+- Tus cuentas bancarias.
+- Lo que haces fuera de lo que compartes conmigo.
+- Tu situación financiera actual exacta.
+- El estado actual de todos los proyectos o dispositivos mencionados.
+
+Tampoco puedo entrar automáticamente en tus cuentas. Solo puedo utilizar una integración cuando está disponible, conectada y autorizada por ti.
+
+22. DATOS QUE PODRÍAN ESTAR DESACTUALIZADOS
+
+- Tu salario actual.
+- La cantidad de deuda pendiente.
+- Tu ordenador principal actual.
+- Qué dispositivos sigues conservando.
+- Tu progreso exacto en DAW, MasterD y 4Geeks.
+- Tu relación laboral actual con Modisprem y Cemergy.
+- Tus metas mensuales de ingresos.
+- Tus nombres de usuario activos.
+- Tu estado de matrícula para prácticas y proyecto final.
+- El avance del proyecto S&OP.
