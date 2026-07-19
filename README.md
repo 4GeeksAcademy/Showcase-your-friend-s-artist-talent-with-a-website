@@ -14,8 +14,7 @@ Sitio web estático para presentar el perfil, trayectoria y proyectos de Franche
 │       ├── franchesco-hero.jpg
 │       └── franchesco-profile.jpg
 └── docs/
-    ├── checks/
-    └── source-material/
+    └── checks/
 ```
 
 ## Cómo abrirlo
@@ -32,4 +31,4 @@ Después entra en `http://localhost:8000`.
 
 - `assets/images/` contiene las imágenes finales usadas por la web.
 - `docs/checks/` guarda capturas de revisión visual.
-- `docs/source-material/` conserva material de referencia del proyecto.
+- El material privado o archivos fuente originales deben quedarse fuera de Git, por ejemplo en `.private/`.
